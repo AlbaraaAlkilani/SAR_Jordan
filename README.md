@@ -9,7 +9,7 @@
 
 Our goal is to lower the barrier for researchers and developers to experiment with UAV-based SAR algorithms in desert, urban, and rural settings. All data and code in this repo are licensed under **CC BY-NC 4.0** for non-commercial research and educational use.  
 
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15427787.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15427787.svg)](https://zenodo.org/records/15427787)
 
 
  
